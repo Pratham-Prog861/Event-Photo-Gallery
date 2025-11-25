@@ -59,7 +59,7 @@ A modern, real-time photo sharing application built with React, Convex, and Conv
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Pratham-Prog861/Event-Photo-Gallery.git
    cd photo-gallery
    ```
 
